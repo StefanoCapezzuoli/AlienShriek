@@ -1,0 +1,6096 @@
+fileFormatVersion: 2
+guid: f83893eee9ed89849be854a595aa1dc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -496164850556403320
+    second: 1404594863_preview_Enemy_GuardsMarked_0
+  - first:
+      213: 2037337075497238744
+    second: 1404594863_preview_Enemy_GuardsMarked_1
+  - first:
+      213: -7097652913726674240
+    second: 1404594863_preview_Enemy_GuardsMarked_2
+  - first:
+      213: -3421394221660503548
+    second: 1404594863_preview_Enemy_GuardsMarked_3
+  - first:
+      213: 7516432044582824295
+    second: 1404594863_preview_Enemy_GuardsMarked_4
+  - first:
+      213: 7676502732490378330
+    second: 1404594863_preview_Enemy_GuardsMarked_5
+  - first:
+      213: -8160076851165781186
+    second: 1404594863_preview_Enemy_GuardsMarked_6
+  - first:
+      213: 9002971586058185261
+    second: 1404594863_preview_Enemy_GuardsMarked_7
+  - first:
+      213: -1928849660634091115
+    second: 1404594863_preview_Enemy_GuardsMarked_8
+  - first:
+      213: -6070555602465332762
+    second: 1404594863_preview_Enemy_GuardsMarked_9
+  - first:
+      213: -2762336851957598342
+    second: 1404594863_preview_Enemy_GuardsMarked_10
+  - first:
+      213: 5100604911921506300
+    second: 1404594863_preview_Enemy_GuardsMarked_11
+  - first:
+      213: 4549928072693629494
+    second: 1404594863_preview_Enemy_GuardsMarked_12
+  - first:
+      213: -4962988553503155615
+    second: 1404594863_preview_Enemy_GuardsMarked_13
+  - first:
+      213: 6791302286849923843
+    second: 1404594863_preview_Enemy_GuardsMarked_14
+  - first:
+      213: -473600975522214810
+    second: 1404594863_preview_Enemy_GuardsMarked_15
+  - first:
+      213: -7959613302750294274
+    second: 1404594863_preview_Enemy_GuardsMarked_16
+  - first:
+      213: -3492281650093296561
+    second: 1404594863_preview_Enemy_GuardsMarked_17
+  - first:
+      213: 237911377473276731
+    second: 1404594863_preview_Enemy_GuardsMarked_18
+  - first:
+      213: 8252323810489566710
+    second: 1404594863_preview_Enemy_GuardsMarked_19
+  - first:
+      213: 1583093233943634282
+    second: 1404594863_preview_Enemy_GuardsMarked_20
+  - first:
+      213: 2712927811760033922
+    second: 1404594863_preview_Enemy_GuardsMarked_21
+  - first:
+      213: 7655486265859561199
+    second: 1404594863_preview_Enemy_GuardsMarked_22
+  - first:
+      213: -2244795848491813240
+    second: 1404594863_preview_Enemy_GuardsMarked_23
+  - first:
+      213: 9221627770474589207
+    second: 1404594863_preview_Enemy_GuardsMarked_24
+  - first:
+      213: -8369183703905560645
+    second: 1404594863_preview_Enemy_GuardsMarked_25
+  - first:
+      213: -3643149174509692244
+    second: 1404594863_preview_Enemy_GuardsMarked_26
+  - first:
+      213: -1657494396035745493
+    second: 1404594863_preview_Enemy_GuardsMarked_27
+  - first:
+      213: -1800524764512709763
+    second: 1404594863_preview_Enemy_GuardsMarked_28
+  - first:
+      213: 579788581489600979
+    second: 1404594863_preview_Enemy_GuardsMarked_29
+  - first:
+      213: 6052136693544589960
+    second: 1404594863_preview_Enemy_GuardsMarked_30
+  - first:
+      213: 7925922496266968178
+    second: 1404594863_preview_Enemy_GuardsMarked_31
+  - first:
+      213: 759762624140761071
+    second: 1404594863_preview_Enemy_GuardsMarked_32
+  - first:
+      213: -8856905301411116590
+    second: 1404594863_preview_Enemy_GuardsMarked_33
+  - first:
+      213: 2530025033661522685
+    second: 1404594863_preview_Enemy_GuardsMarked_34
+  - first:
+      213: 1026106835888444294
+    second: 1404594863_preview_Enemy_GuardsMarked_35
+  - first:
+      213: -3225246283685979123
+    second: 1404594863_preview_Enemy_GuardsMarked_36
+  - first:
+      213: 1867933864998747620
+    second: 1404594863_preview_Enemy_GuardsMarked_37
+  - first:
+      213: -3489383633770265822
+    second: 1404594863_preview_Enemy_GuardsMarked_38
+  - first:
+      213: -7151943749196193698
+    second: 1404594863_preview_Enemy_GuardsMarked_39
+  - first:
+      213: -3381139524474764777
+    second: 1404594863_preview_Enemy_GuardsMarked_40
+  - first:
+      213: -4068458875341976739
+    second: 1404594863_preview_Enemy_GuardsMarked_41
+  - first:
+      213: -7758933876385520503
+    second: 1404594863_preview_Enemy_GuardsMarked_42
+  - first:
+      213: 3666225552298881147
+    second: 1404594863_preview_Enemy_GuardsMarked_43
+  - first:
+      213: 8783819425263635536
+    second: 1404594863_preview_Enemy_GuardsMarked_44
+  - first:
+      213: 4013722664228182992
+    second: 1404594863_preview_Enemy_GuardsMarked_45
+  - first:
+      213: -8470889733794362767
+    second: 1404594863_preview_Enemy_GuardsMarked_46
+  - first:
+      213: -8766657510496383152
+    second: 1404594863_preview_Enemy_GuardsMarked_47
+  - first:
+      213: 6234990009672500837
+    second: 1404594863_preview_Enemy_GuardsMarked_48
+  - first:
+      213: 4358648248131275909
+    second: 1404594863_preview_Enemy_GuardsMarked_49
+  - first:
+      213: 8326682253612772755
+    second: 1404594863_preview_Enemy_GuardsMarked_50
+  - first:
+      213: -4842570120539028970
+    second: 1404594863_preview_Enemy_GuardsMarked_51
+  - first:
+      213: -4741989898936990272
+    second: 1404594863_preview_Enemy_GuardsMarked_52
+  - first:
+      213: 6547159317358624967
+    second: 1404594863_preview_Enemy_GuardsMarked_53
+  - first:
+      213: -1199841223788702099
+    second: 1404594863_preview_Enemy_GuardsMarked_54
+  - first:
+      213: -5390602322719043449
+    second: 1404594863_preview_Enemy_GuardsMarked_55
+  - first:
+      213: 2546976827425382019
+    second: 1404594863_preview_Enemy_GuardsMarked_56
+  - first:
+      213: 9064818852117624233
+    second: 1404594863_preview_Enemy_GuardsMarked_57
+  - first:
+      213: -7129485669799875655
+    second: 1404594863_preview_Enemy_GuardsMarked_58
+  - first:
+      213: 7497096095982151866
+    second: 1404594863_preview_Enemy_GuardsMarked_59
+  - first:
+      213: -7201058179419952522
+    second: 1404594863_preview_Enemy_GuardsMarked_60
+  - first:
+      213: 8129340012368838295
+    second: 1404594863_preview_Enemy_GuardsMarked_61
+  - first:
+      213: -2491872923847451843
+    second: 1404594863_preview_Enemy_GuardsMarked_62
+  - first:
+      213: 497307573966504097
+    second: 1404594863_preview_Enemy_GuardsMarked_63
+  - first:
+      213: 9024625128136446348
+    second: 1404594863_preview_Enemy_GuardsMarked_64
+  - first:
+      213: -8204392116470811482
+    second: 1404594863_preview_Enemy_GuardsMarked_65
+  - first:
+      213: -1163830427555850480
+    second: 1404594863_preview_Enemy_GuardsMarked_66
+  - first:
+      213: 6113258565991527906
+    second: 1404594863_preview_Enemy_GuardsMarked_67
+  - first:
+      213: -8954690258367503348
+    second: 1404594863_preview_Enemy_GuardsMarked_68
+  - first:
+      213: -6224063105752138092
+    second: 1404594863_preview_Enemy_GuardsMarked_69
+  - first:
+      213: 5574107739129497974
+    second: 1404594863_preview_Enemy_GuardsMarked_70
+  - first:
+      213: -1933493317530665649
+    second: 1404594863_preview_Enemy_GuardsMarked_71
+  - first:
+      213: 1993947718189146496
+    second: 1404594863_preview_Enemy_GuardsMarked_72
+  - first:
+      213: -9195773215669012320
+    second: 1404594863_preview_Enemy_GuardsMarked_73
+  - first:
+      213: 9053535431701261948
+    second: 1404594863_preview_Enemy_GuardsMarked_74
+  - first:
+      213: -7972754845170026110
+    second: 1404594863_preview_Enemy_GuardsMarked_75
+  - first:
+      213: 2301818730481672759
+    second: 1404594863_preview_Enemy_GuardsMarked_76
+  - first:
+      213: -6219305843944510444
+    second: 1404594863_preview_Enemy_GuardsMarked_77
+  - first:
+      213: -8877311556088499185
+    second: 1404594863_preview_Enemy_GuardsMarked_78
+  - first:
+      213: 8156529890819021787
+    second: 1404594863_preview_Enemy_GuardsMarked_79
+  - first:
+      213: -7970666592040222795
+    second: 1404594863_preview_Enemy_GuardsMarked_80
+  - first:
+      213: -5812309362334223183
+    second: 1404594863_preview_Enemy_GuardsMarked_81
+  - first:
+      213: 1673724500336164391
+    second: 1404594863_preview_Enemy_GuardsMarked_82
+  - first:
+      213: -82741562586782800
+    second: 1404594863_preview_Enemy_GuardsMarked_83
+  - first:
+      213: -3972988050247563340
+    second: 1404594863_preview_Enemy_GuardsMarked_84
+  - first:
+      213: 8568073693621742139
+    second: 1404594863_preview_Enemy_GuardsMarked_85
+  - first:
+      213: -8259624211192925104
+    second: 1404594863_preview_Enemy_GuardsMarked_86
+  - first:
+      213: -2709090344882628719
+    second: 1404594863_preview_Enemy_GuardsMarked_87
+  - first:
+      213: 3313065336111325138
+    second: 1404594863_preview_Enemy_GuardsMarked_88
+  - first:
+      213: -3148136837229866356
+    second: 1404594863_preview_Enemy_GuardsMarked_89
+  - first:
+      213: 5363811045667975107
+    second: 1404594863_preview_Enemy_GuardsMarked_90
+  - first:
+      213: 8955464735109524517
+    second: 1404594863_preview_Enemy_GuardsMarked_91
+  - first:
+      213: -5009139552379038736
+    second: 1404594863_preview_Enemy_GuardsMarked_92
+  - first:
+      213: 3433480558754653338
+    second: 1404594863_preview_Enemy_GuardsMarked_93
+  - first:
+      213: 7166382442624502456
+    second: 1404594863_preview_Enemy_GuardsMarked_94
+  - first:
+      213: 5829222711822787232
+    second: 1404594863_preview_Enemy_GuardsMarked_95
+  - first:
+      213: -851201055432814633
+    second: 1404594863_preview_Enemy_GuardsMarked_96
+  - first:
+      213: -2230875576874099416
+    second: 1404594863_preview_Enemy_GuardsMarked_97
+  - first:
+      213: 6412559752395931243
+    second: 1404594863_preview_Enemy_GuardsMarked_98
+  - first:
+      213: 5549230572721877306
+    second: 1404594863_preview_Enemy_GuardsMarked_99
+  - first:
+      213: -6591288078349110914
+    second: 1404594863_preview_Enemy_GuardsMarked_100
+  - first:
+      213: -6496226827272035816
+    second: 1404594863_preview_Enemy_GuardsMarked_101
+  - first:
+      213: 502896024692961188
+    second: 1404594863_preview_Enemy_GuardsMarked_102
+  - first:
+      213: 4969316608254886357
+    second: 1404594863_preview_Enemy_GuardsMarked_103
+  - first:
+      213: -7461699374508150122
+    second: 1404594863_preview_Enemy_GuardsMarked_104
+  - first:
+      213: -8482757067567796946
+    second: 1404594863_preview_Enemy_GuardsMarked_105
+  - first:
+      213: -2303916042446131223
+    second: 1404594863_preview_Enemy_GuardsMarked_106
+  - first:
+      213: -8805139130207159249
+    second: 1404594863_preview_Enemy_GuardsMarked_107
+  - first:
+      213: -1961066612817393575
+    second: 1404594863_preview_Enemy_GuardsMarked_108
+  - first:
+      213: -7624279410078824167
+    second: 1404594863_preview_Enemy_GuardsMarked_109
+  - first:
+      213: -1601362908173713443
+    second: 1404594863_preview_Enemy_GuardsMarked_110
+  - first:
+      213: -1436229502493470076
+    second: 1404594863_preview_Enemy_GuardsMarked_111
+  - first:
+      213: -655797096222731238
+    second: 1404594863_preview_Enemy_GuardsMarked_112
+  - first:
+      213: 671711057160039273
+    second: 1404594863_preview_Enemy_GuardsMarked_113
+  - first:
+      213: -5254474166676036504
+    second: 1404594863_preview_Enemy_GuardsMarked_114
+  - first:
+      213: 4709570539017101351
+    second: 1404594863_preview_Enemy_GuardsMarked_115
+  - first:
+      213: 4749334828300609463
+    second: 1404594863_preview_Enemy_GuardsMarked_116
+  - first:
+      213: -2388209135036825323
+    second: 1404594863_preview_Enemy_GuardsMarked_117
+  - first:
+      213: -449182322564999033
+    second: 1404594863_preview_Enemy_GuardsMarked_118
+  - first:
+      213: 495700789482999529
+    second: 1404594863_preview_Enemy_GuardsMarked_119
+  - first:
+      213: -6200263755583454360
+    second: 1404594863_preview_Enemy_GuardsMarked_120
+  - first:
+      213: -4715106729362512540
+    second: 1404594863_preview_Enemy_GuardsMarked_121
+  - first:
+      213: -419144541615741491
+    second: 1404594863_preview_Enemy_GuardsMarked_122
+  - first:
+      213: -6167845790159510790
+    second: 1404594863_preview_Enemy_GuardsMarked_123
+  - first:
+      213: -4636544294293510500
+    second: 1404594863_preview_Enemy_GuardsMarked_124
+  - first:
+      213: 3854641694661689106
+    second: 1404594863_preview_Enemy_GuardsMarked_125
+  - first:
+      213: -691107690322519216
+    second: 1404594863_preview_Enemy_GuardsMarked_126
+  - first:
+      213: 1695813522559648572
+    second: 1404594863_preview_Enemy_GuardsMarked_127
+  - first:
+      213: 2556966368251152593
+    second: 1404594863_preview_Enemy_GuardsMarked_128
+  - first:
+      213: 3322219392371692334
+    second: 1404594863_preview_Enemy_GuardsMarked_129
+  - first:
+      213: 2538767500203772938
+    second: 1404594863_preview_Enemy_GuardsMarked_130
+  - first:
+      213: -6666878967071877774
+    second: 1404594863_preview_Enemy_GuardsMarked_131
+  - first:
+      213: -896389641015173392
+    second: 1404594863_preview_Enemy_GuardsMarked_132
+  - first:
+      213: 3424300824368185971
+    second: 1404594863_preview_Enemy_GuardsMarked_133
+  - first:
+      213: 4721163975637331637
+    second: 1404594863_preview_Enemy_GuardsMarked_134
+  - first:
+      213: -6855482204681932554
+    second: 1404594863_preview_Enemy_GuardsMarked_135
+  - first:
+      213: 6125447889215888502
+    second: 1404594863_preview_Enemy_GuardsMarked_136
+  - first:
+      213: -4489082231342756089
+    second: 1404594863_preview_Enemy_GuardsMarked_137
+  - first:
+      213: 3381268536242316106
+    second: 1404594863_preview_Enemy_GuardsMarked_138
+  - first:
+      213: -4081762494777290637
+    second: 1404594863_preview_Enemy_GuardsMarked_139
+  - first:
+      213: 4829101793865409792
+    second: 1404594863_preview_Enemy_GuardsMarked_140
+  - first:
+      213: -4649817832850368606
+    second: 1404594863_preview_Enemy_GuardsMarked_141
+  - first:
+      213: -6077025336661823092
+    second: 1404594863_preview_Enemy_GuardsMarked_142
+  - first:
+      213: -9170112226926778630
+    second: 1404594863_preview_Enemy_GuardsMarked_143
+  - first:
+      213: 3230823999817549538
+    second: 1404594863_preview_Enemy_GuardsMarked_144
+  - first:
+      213: -7959104716695483709
+    second: 1404594863_preview_Enemy_GuardsMarked_145
+  - first:
+      213: -4214603417430255064
+    second: 1404594863_preview_Enemy_GuardsMarked_146
+  - first:
+      213: -6642016399604153928
+    second: 1404594863_preview_Enemy_GuardsMarked_147
+  - first:
+      213: -955572743638418740
+    second: 1404594863_preview_Enemy_GuardsMarked_148
+  - first:
+      213: -8579314388133881801
+    second: 1404594863_preview_Enemy_GuardsMarked_149
+  - first:
+      213: 2312383870432912006
+    second: 1404594863_preview_Enemy_GuardsMarked_150
+  - first:
+      213: -3603206771776194985
+    second: 1404594863_preview_Enemy_GuardsMarked_151
+  - first:
+      213: -5970907557308913666
+    second: 1404594863_preview_Enemy_GuardsMarked_152
+  - first:
+      213: -2769048550918108605
+    second: 1404594863_preview_Enemy_GuardsMarked_153
+  - first:
+      213: -6098294832172562467
+    second: 1404594863_preview_Enemy_GuardsMarked_154
+  - first:
+      213: 4625839709600772603
+    second: 1404594863_preview_Enemy_GuardsMarked_155
+  - first:
+      213: -5658483004754671139
+    second: 1404594863_preview_Enemy_GuardsMarked_156
+  - first:
+      213: 7181051213871813011
+    second: 1404594863_preview_Enemy_GuardsMarked_157
+  - first:
+      213: 7111835710107894132
+    second: 1404594863_preview_Enemy_GuardsMarked_158
+  - first:
+      213: -8850138951463782850
+    second: 1404594863_preview_Enemy_GuardsMarked_159
+  - first:
+      213: -6170242033055135089
+    second: 1404594863_preview_Enemy_GuardsMarked_160
+  - first:
+      213: -7293046030392615477
+    second: 1404594863_preview_Enemy_GuardsMarked_161
+  - first:
+      213: 7323331202319539954
+    second: 1404594863_preview_Enemy_GuardsMarked_162
+  - first:
+      213: 1179287588899085180
+    second: 1404594863_preview_Enemy_GuardsMarked_163
+  - first:
+      213: 5487507469381362543
+    second: 1404594863_preview_Enemy_GuardsMarked_164
+  - first:
+      213: 1972660071919429961
+    second: 1404594863_preview_Enemy_GuardsMarked_165
+  - first:
+      213: -3919536230692990747
+    second: 1404594863_preview_Enemy_GuardsMarked_166
+  - first:
+      213: -922560100998825481
+    second: 1404594863_preview_Enemy_GuardsMarked_167
+  - first:
+      213: 2546513951683958798
+    second: 1404594863_preview_Enemy_GuardsMarked_168
+  - first:
+      213: 3326103904005521340
+    second: 1404594863_preview_Enemy_GuardsMarked_169
+  - first:
+      213: 3067319904584169773
+    second: 1404594863_preview_Enemy_GuardsMarked_170
+  - first:
+      213: -3645772596428893263
+    second: 1404594863_preview_Enemy_GuardsMarked_171
+  - first:
+      213: -1313313079722104648
+    second: 1404594863_preview_Enemy_GuardsMarked_172
+  - first:
+      213: -2008822640745699917
+    second: 1404594863_preview_Enemy_GuardsMarked_173
+  - first:
+      213: 6167412094966388502
+    second: 1404594863_preview_Enemy_GuardsMarked_174
+  - first:
+      213: 3075143289813656320
+    second: 1404594863_preview_Enemy_GuardsMarked_175
+  - first:
+      213: 8754164664686332720
+    second: 1404594863_preview_Enemy_GuardsMarked_176
+  - first:
+      213: 2847847318522664142
+    second: 1404594863_preview_Enemy_GuardsMarked_177
+  - first:
+      213: -4591207126021079647
+    second: 1404594863_preview_Enemy_GuardsMarked_178
+  - first:
+      213: 1754617358416134919
+    second: 1404594863_preview_Enemy_GuardsMarked_179
+  - first:
+      213: -1537857108615518712
+    second: 1404594863_preview_Enemy_GuardsMarked_180
+  - first:
+      213: -2469342014820338870
+    second: 1404594863_preview_Enemy_GuardsMarked_181
+  - first:
+      213: -2011062391068858449
+    second: 1404594863_preview_Enemy_GuardsMarked_182
+  - first:
+      213: -6827952133339910922
+    second: 1404594863_preview_Enemy_GuardsMarked_183
+  - first:
+      213: -6789725012780094426
+    second: 1404594863_preview_Enemy_GuardsMarked_184
+  - first:
+      213: 1246196650011851064
+    second: 1404594863_preview_Enemy_GuardsMarked_185
+  - first:
+      213: 3183324305205866582
+    second: 1404594863_preview_Enemy_GuardsMarked_186
+  - first:
+      213: 1214687511087303227
+    second: 1404594863_preview_Enemy_GuardsMarked_187
+  - first:
+      213: 5366569427320910179
+    second: 1404594863_preview_Enemy_GuardsMarked_188
+  - first:
+      213: -7512899027695925410
+    second: 1404594863_preview_Enemy_GuardsMarked_189
+  - first:
+      213: 7986073438187508062
+    second: 1404594863_preview_Enemy_GuardsMarked_190
+  - first:
+      213: -6694792877118321923
+    second: 1404594863_preview_Enemy_GuardsMarked_191
+  - first:
+      213: 8789548678059871988
+    second: 1404594863_preview_Enemy_GuardsMarked_192
+  - first:
+      213: 2270373544390316758
+    second: 1404594863_preview_Enemy_GuardsMarked_193
+  - first:
+      213: 3200302869055450857
+    second: 1404594863_preview_Enemy_GuardsMarked_194
+  - first:
+      213: 3400834653644991445
+    second: 1404594863_preview_Enemy_GuardsMarked_195
+  - first:
+      213: -255072642464329560
+    second: 1404594863_preview_Enemy_GuardsMarked_196
+  - first:
+      213: -904681184663330655
+    second: 1404594863_preview_Enemy_GuardsMarked_197
+  - first:
+      213: 2799275386716518140
+    second: 1404594863_preview_Enemy_GuardsMarked_198
+  - first:
+      213: -6647005786695659330
+    second: 1404594863_preview_Enemy_GuardsMarked_199
+  - first:
+      213: -2809898835917601099
+    second: 1404594863_preview_Enemy_GuardsMarked_200
+  - first:
+      213: 2463585695299385187
+    second: 1404594863_preview_Enemy_GuardsMarked_201
+  - first:
+      213: -5919852655279603102
+    second: 1404594863_preview_Enemy_GuardsMarked_202
+  - first:
+      213: 2597603006205006592
+    second: 1404594863_preview_Enemy_GuardsMarked_203
+  - first:
+      213: -9035801768883235982
+    second: 1404594863_preview_Enemy_GuardsMarked_204
+  - first:
+      213: -4221387749130069159
+    second: 1404594863_preview_Enemy_GuardsMarked_205
+  - first:
+      213: 6212243269298607703
+    second: 1404594863_preview_Enemy_GuardsMarked_206
+  - first:
+      213: -6023934765692310637
+    second: 1404594863_preview_Enemy_GuardsMarked_207
+  - first:
+      213: -4555526100383998843
+    second: 1404594863_preview_Enemy_GuardsMarked_208
+  - first:
+      213: -548293579514625376
+    second: 1404594863_preview_Enemy_GuardsMarked_209
+  - first:
+      213: 1500427550153194425
+    second: 1404594863_preview_Enemy_GuardsMarked_210
+  - first:
+      213: -5973379906613074466
+    second: 1404594863_preview_Enemy_GuardsMarked_211
+  - first:
+      213: 425062898694515503
+    second: 1404594863_preview_Enemy_GuardsMarked_212
+  - first:
+      213: -7948818200568350216
+    second: 1404594863_preview_Enemy_GuardsMarked_213
+  - first:
+      213: -1750817242068015923
+    second: 1404594863_preview_Enemy_GuardsMarked_214
+  - first:
+      213: 4607500443245094334
+    second: 1404594863_preview_Enemy_GuardsMarked_215
+  - first:
+      213: -4701176055510763995
+    second: 1404594863_preview_Enemy_GuardsMarked_216
+  - first:
+      213: -4997978943773693947
+    second: 1404594863_preview_Enemy_GuardsMarked_217
+  - first:
+      213: 4948340999779218402
+    second: 1404594863_preview_Enemy_GuardsMarked_218
+  - first:
+      213: -3627121924608753268
+    second: 1404594863_preview_Enemy_GuardsMarked_219
+  - first:
+      213: -674102613577796636
+    second: 1404594863_preview_Enemy_GuardsMarked_220
+  - first:
+      213: -6286329636334736654
+    second: 1404594863_preview_Enemy_GuardsMarked_221
+  - first:
+      213: -283170784381386379
+    second: 1404594863_preview_Enemy_GuardsMarked_222
+  - first:
+      213: -4420849399284324917
+    second: 1404594863_preview_Enemy_GuardsMarked_223
+  - first:
+      213: 7607279526080545659
+    second: 1404594863_preview_Enemy_GuardsMarked_224
+  - first:
+      213: 5631472561271807091
+    second: 1404594863_preview_Enemy_GuardsMarked_225
+  - first:
+      213: 6756726009734567782
+    second: 1404594863_preview_Enemy_GuardsMarked_226
+  - first:
+      213: 285201083695329530
+    second: 1404594863_preview_Enemy_GuardsMarked_227
+  - first:
+      213: 3728356710152758742
+    second: 1404594863_preview_Enemy_GuardsMarked_228
+  - first:
+      213: -498702712529998229
+    second: 1404594863_preview_Enemy_GuardsMarked_229
+  - first:
+      213: 612688693775418973
+    second: 1404594863_preview_Enemy_GuardsMarked_230
+  - first:
+      213: -4248311706933166546
+    second: 1404594863_preview_Enemy_GuardsMarked_231
+  - first:
+      213: -5631159770351326102
+    second: 1404594863_preview_Enemy_GuardsMarked_232
+  - first:
+      213: -8851381780780818692
+    second: 1404594863_preview_Enemy_GuardsMarked_233
+  - first:
+      213: 1350685281205363388
+    second: 1404594863_preview_Enemy_GuardsMarked_234
+  - first:
+      213: -3448484089330850188
+    second: 1404594863_preview_Enemy_GuardsMarked_235
+  - first:
+      213: -863462335091969675
+    second: 1404594863_preview_Enemy_GuardsMarked_236
+  - first:
+      213: -829960080939575791
+    second: 1404594863_preview_Enemy_GuardsMarked_237
+  - first:
+      213: 3398713008044804849
+    second: 1404594863_preview_Enemy_GuardsMarked_238
+  - first:
+      213: 7421143463817730903
+    second: 1404594863_preview_Enemy_GuardsMarked_239
+  - first:
+      213: -5383818596494301012
+    second: 1404594863_preview_Enemy_GuardsMarked_240
+  - first:
+      213: -6969428117387084587
+    second: 1404594863_preview_Enemy_GuardsMarked_241
+  - first:
+      213: 1848876058607271479
+    second: 1404594863_preview_Enemy_GuardsMarked_242
+  - first:
+      213: -6385552761915976265
+    second: 1404594863_preview_Enemy_GuardsMarked_243
+  - first:
+      213: -7961969998274501483
+    second: 1404594863_preview_Enemy_GuardsMarked_244
+  - first:
+      213: 2780812992789893895
+    second: 1404594863_preview_Enemy_GuardsMarked_245
+  - first:
+      213: 4650644134068866011
+    second: 1404594863_preview_Enemy_GuardsMarked_246
+  - first:
+      213: -2455545459956537922
+    second: 1404594863_preview_Enemy_GuardsMarked_247
+  - first:
+      213: -7719351886177570610
+    second: 1404594863_preview_Enemy_GuardsMarked_248
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 857
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8810d8c72b44d19f0800000000000000
+      internalID: -496164850556403320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 862
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d00fb0a643164c10800000000000000
+      internalID: 2037337075497238744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 866
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca2e4aa742108d90800000000000000
+      internalID: -7097652913726674240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 878
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4020a5d2514c480d0800000000000000
+      internalID: -3421394221660503548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 879
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769e8bbee1bbf4860800000000000000
+      internalID: 7516432044582824295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 877
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c8767309a688a60800000000000000
+      internalID: 7676502732490378330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 876
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33206a765591ce80800000000000000
+      internalID: -8160076851165781186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 878
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2aeeed25faf0fc70800000000000000
+      internalID: 9002971586058185261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_8
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 886
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591b5c004795b35e0800000000000000
+      internalID: -1928849660634091115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_9
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 888
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1ebcdb7dd01cba0800000000000000
+      internalID: -6070555602465332762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_10
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 879
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77b815c4453aa9d0800000000000000
+      internalID: -2762336851957598342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_11
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 865
+        width: 301
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7a1baa42df8c640800000000000000
+      internalID: 5100604911921506300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_12
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 884
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6324b7eb977942f30800000000000000
+      internalID: 4549928072693629494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 802
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a5d14a43cef1bb0800000000000000
+      internalID: -4962988553503155615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 802
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bdcf1b27d8f3e50800000000000000
+      internalID: 6791302286849923843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 797
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c48b80c6e6d69f0800000000000000
+      internalID: -473600975522214810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 58
+        width: 548
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe481c7fd5c98190800000000000000
+      internalID: -7959613302750294274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_17
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 808
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44f296975ce88fc0800000000000000
+      internalID: -3492281650093296561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_18
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 807
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b8156232b3d4300800000000000000
+      internalID: 237911377473276731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_19
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 803
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f58abf68c4268270800000000000000
+      internalID: 8252323810489566710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_20
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 805
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61e88f98e648f510800000000000000
+      internalID: 1583093233943634282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_21
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 799
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2801c39987146a520800000000000000
+      internalID: 2712927811760033922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_22
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 810
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6d073c230cd3a60800000000000000
+      internalID: 7655486265859561199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 740
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886bf59b112e8d0e0800000000000000
+      internalID: -2244795848491813240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 740
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ce306599dc9ff70800000000000000
+      internalID: 9221627770474589207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_25
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 760
+        width: 61
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb798bc53cfaadb80800000000000000
+      internalID: -8369183703905560645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_26
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 758
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa9795c02fe07dc0800000000000000
+      internalID: -3643149174509692244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_27
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 755
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29b61be0a56ff8e0800000000000000
+      internalID: -1657494396035745493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_28
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 755
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d731de924404307e0800000000000000
+      internalID: -1800524764512709763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_29
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 755
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9e38c94a2db0800800000000000000
+      internalID: 579788581489600979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_30
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 756
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a15d6d1428df350800000000000000
+      internalID: 6052136693544589960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 728
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c154b54888efd60800000000000000
+      internalID: 7925922496266968178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_32
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 720
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7578dc4183b8a00800000000000000
+      internalID: 759762624140761071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_33
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 721
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9cd14ed83f51580800000000000000
+      internalID: -8856905301411116590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_34
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 721
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2ad3c0d547c1320800000000000000
+      internalID: 2530025033661522685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_35
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 721
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6831bbe0bb67d3e00800000000000000
+      internalID: 1026106835888444294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_36
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 721
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c9fb3d79f9d33d0800000000000000
+      internalID: -3225246283685979123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_37
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 721
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed3c2714fb3ce910800000000000000
+      internalID: 1867933864998747620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 674
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223cf089218339fc0800000000000000
+      internalID: -3489383633770265822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_39
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 674
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50e59f7d013fbc90800000000000000
+      internalID: -7151943749196193698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 658
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71206ab3487c311d0800000000000000
+      internalID: -3381139524474764777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_41
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 679
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bc4ff553ee987c0800000000000000
+      internalID: -4068458875341976739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_42
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 679
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984eb4e7fbab25490800000000000000
+      internalID: -7758933876385520503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_43
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 679
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b703c3f17bc01e230800000000000000
+      internalID: 3666225552298881147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_44
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 679
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cc3068a3566e970800000000000000
+      internalID: 8783819425263635536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_45
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 679
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db514c5f7b93b730800000000000000
+      internalID: 4013722664228182992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_46
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 678
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a0fa5faaa517a80800000000000000
+      internalID: -8470889733794362767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_47
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 610
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f4a532173965680800000000000000
+      internalID: -8766657510496383152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_48
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 638
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56683a02162278650800000000000000
+      internalID: 6234990009672500837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_49
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 638
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c4eb21d770d7c30800000000000000
+      internalID: 4358648248131275909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_50
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 638
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d632c94615e8370800000000000000
+      internalID: 8326682253612772755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_51
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 637
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612c955e12cbbccb0800000000000000
+      internalID: -4842570120539028970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_52
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 638
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5ce51af41113eb0800000000000000
+      internalID: -4741989898936990272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_53
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 638
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0cc07f5be2cda50800000000000000
+      internalID: 6547159317358624967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 613
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66543593ce495fe0800000000000000
+      internalID: -1199841223788702099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_55
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 589
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7809fe48fbbb035b0800000000000000
+      internalID: -5390602322719043449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_56
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 597
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e57d91eeda85320800000000000000
+      internalID: 2546976827425382019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_57
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 596
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a53cb1f7b4bccd70800000000000000
+      internalID: 9064818852117624233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_58
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 597
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb27549e8afe0d90800000000000000
+      internalID: -7129485669799875655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_59
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 597
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8ebff8d290b0860800000000000000
+      internalID: 7497096095982151866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_60
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 597
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aa0c81db3b01c90800000000000000
+      internalID: -7201058179419952522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_61
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 596
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e3d9f8ba731d070800000000000000
+      internalID: 8129340012368838295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_62
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 547
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b98ac37c61b6dd0800000000000000
+      internalID: -2491872923847451843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_63
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 549
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0826a8a9ac6e600800000000000000
+      internalID: 497307573966504097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_64
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 556
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8113a15db8ed3d70800000000000000
+      internalID: 9024625128136446348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_65
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 556
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4fdbbb6d4242e80800000000000000
+      internalID: -8204392116470811482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_66
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 559
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0171eb2746e39dfe0800000000000000
+      internalID: -1163830427555850480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_67
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 559
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5f90eb648a6d450800000000000000
+      internalID: 6113258565991527906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_68
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 557
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04aa5c67ac8ab380800000000000000
+      internalID: -8954690258367503348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_69
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 559
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e7702f49faf99a0800000000000000
+      internalID: -6224063105752138092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_70
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 520
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679c192b4753b5d40800000000000000
+      internalID: 5574107739129497974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_71
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 513
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d3ef0621ada25e0800000000000000
+      internalID: -1933493317530665649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_72
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 513
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0816d53a2ecebab10800000000000000
+      internalID: 1993947718189146496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_73
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 513
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a83ffc4bfc026080800000000000000
+      internalID: -9195773215669012320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_74
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 513
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e67f7e18e94ad70800000000000000
+      internalID: 9053535431701261948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_75
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 513
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289bd54b5b51b5190800000000000000
+      internalID: -7972754845170026110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_76
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 516
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73263b790f3b1ff10800000000000000
+      internalID: 2301818730481672759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_77
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 513
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c2d26494690b9a0800000000000000
+      internalID: -6219305843944510444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_78
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 510
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04ffda7c247dc480800000000000000
+      internalID: -8877311556088499185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb9f1678b0d13170800000000000000
+      internalID: 8156529890819021787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_80
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 480
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf7e5607f0826190800000000000000
+      internalID: -7970666592040222795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_81
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 473
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4346d0e67865fa0800000000000000
+      internalID: -5812309362334223183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_82
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 473
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72eb766b0934a3710800000000000000
+      internalID: 1673724500336164391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_83
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 473
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3aad9bcfa0adef0800000000000000
+      internalID: -82741562586782800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_84
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 471
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b74f180b6c1dd8c0800000000000000
+      internalID: -3972988050247563340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_85
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 473
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a61b5f0a9e7e670800000000000000
+      internalID: 8568073693621742139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_86
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 473
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05431a19a8bef5d80800000000000000
+      internalID: -8259624211192925104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_87
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 478
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19794d84fa0676ad0800000000000000
+      internalID: -2709090344882628719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_88
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 451
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df539cae5f5afd20800000000000000
+      internalID: 3313065336111325138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_89
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 437
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c829790e9329f44d0800000000000000
+      internalID: -3148136837229866356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_90
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 437
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf2b533ab5107a40800000000000000
+      internalID: 5363811045667975107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_91
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 437
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cadbe7ab3384c70800000000000000
+      internalID: 8955464735109524517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_92
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 437
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3961edd16fb7ab0800000000000000
+      internalID: -5009139552379038736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_93
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 437
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94e7c7706c26af20800000000000000
+      internalID: 3433480558754653338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_94
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 437
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baca39ccda147360800000000000000
+      internalID: 7166382442624502456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_95
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 442
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a226defb2f85e050800000000000000
+      internalID: 5829222711822787232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_96
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 414
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df4d72662def24f0800000000000000
+      internalID: -851201055432814633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_97
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 415
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d13568b765a01e0800000000000000
+      internalID: -2230875576874099416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_98
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 401
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eb68e9e1dfdf850800000000000000
+      internalID: 6412559752395931243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_99
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 399
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3133d70ec3d20d40800000000000000
+      internalID: 5549230572721877306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_100
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 401
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71fbb53a6a0784a0800000000000000
+      internalID: -6591288078349110914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_101
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 401
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812661c7e14c8d5a0800000000000000
+      internalID: -6496226827272035816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_102
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 401
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afa7ce1545aaf600800000000000000
+      internalID: 502896024692961188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_103
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 401
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d14b7b602f86f440800000000000000
+      internalID: 4969316608254886357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_104
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 406
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692ffa1e3f7b27890800000000000000
+      internalID: -7461699374508150122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_105
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 383
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2defaff361374a80800000000000000
+      internalID: -8482757067567796946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_106
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 372
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efaca9e098d600e0800000000000000
+      internalID: -2303916042446131223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_107
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 372
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c3c1adc9cddc580800000000000000
+      internalID: -8805139130207159249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_108
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 372
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958042a4e44e8c4e0800000000000000
+      internalID: -1961066612817393575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_109
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 372
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9194ded854e113690800000000000000
+      internalID: -7624279410078824167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_110
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 372
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfb1dd5be0d6c9e0800000000000000
+      internalID: -1601362908173713443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_111
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 372
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482d0ff70ec711ce0800000000000000
+      internalID: -1436229502493470076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_112
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 372
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1459eaf30426e6f0800000000000000
+      internalID: -655797096222731238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_113
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 351
+        width: 53
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96be9b9c5a5625900800000000000000
+      internalID: 671711057160039273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_114
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 356
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864eec5b59b5417b0800000000000000
+      internalID: -5254474166676036504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_115
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 314
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72062cee371cb5140800000000000000
+      internalID: 4709570539017101351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_116
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 339
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7af300dd609e140800000000000000
+      internalID: 4749334828300609463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_117
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 337
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51189c8e1706bded0800000000000000
+      internalID: -2388209135036825323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_118
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 337
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788d028be0f24c9f0800000000000000
+      internalID: -449182322564999033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_119
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 337
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eec300ed3511e600800000000000000
+      internalID: 495700789482999529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_120
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 337
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86308b6f6fc34f9a0800000000000000
+      internalID: -6200263755583454360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_121
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 337
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4652b4e4963909eb0800000000000000
+      internalID: -4715106729362512540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_122
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 337
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc523779246ee2af0800000000000000
+      internalID: -419144541615741491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_123
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 337
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af26728bee8676aa0800000000000000
+      internalID: -6167845790159510790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_124
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 285
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c966541a78fa7afb0800000000000000
+      internalID: -4636544294293510500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_125
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 289
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f38b2d2307e7530800000000000000
+      internalID: 3854641694661689106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_126
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 306
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b19c0a731b866f0800000000000000
+      internalID: -691107690322519216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_127
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 304
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33c879f96db88710800000000000000
+      internalID: 1695813522559648572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_128
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 304
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d80b325d5b2c7320800000000000000
+      internalID: 2556966368251152593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_129
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 304
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e239a3c7fe4ea1e20800000000000000
+      internalID: 3322219392371692334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_130
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 304
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cc3f827938b3320800000000000000
+      internalID: 2538767500203772938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_131
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 304
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275582fe6ec7a73a0800000000000000
+      internalID: -6666878967071877774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_132
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 301
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe53faee526f83f0800000000000000
+      internalID: -896389641015173392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_133
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 301
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3720b80057f858f20800000000000000
+      internalID: 3424300824368185971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_134
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 302
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5beeb3e3f91f48140800000000000000
+      internalID: 4721163975637331637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_135
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 264
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0fbe9b14f6cd0a0800000000000000
+      internalID: -6855482204681932554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_136
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 264
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c11e6b666f10550800000000000000
+      internalID: 6125447889215888502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_137
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 264
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f0c49ae7393b1c0800000000000000
+      internalID: -4489082231342756089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_138
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 280
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43ade8a1ddacee20800000000000000
+      internalID: 3381268536242316106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_139
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 280
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370994913aaaa57c0800000000000000
+      internalID: -4081762494777290637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_140
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 280
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005ac8fee7a640340800000000000000
+      internalID: 4829101793865409792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_141
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 280
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a75daa1157887fb0800000000000000
+      internalID: -4649817832850368606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_142
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 280
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81393d57a11aaba0800000000000000
+      internalID: -6077025336661823092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_143
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 280
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af62093d3873db080800000000000000
+      internalID: -9170112226926778630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_144
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 280
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e68ee86f4136dc20800000000000000
+      internalID: 3230823999817549538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_145
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 273
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caca37ed649b8190800000000000000
+      internalID: -7959104716695483709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_146
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 273
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a1ce29588b285c0800000000000000
+      internalID: -4214603417430255064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_147
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 273
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b186458641d2d3a0800000000000000
+      internalID: -6642016399604153928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_148
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 272
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaf26a07af1db2f0800000000000000
+      internalID: -955572743638418740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_149
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 273
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738d1e6e40720f880800000000000000
+      internalID: -8579314388133881801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_150
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 273
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6822f7de0ec371020800000000000000
+      internalID: 2312383870432912006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_151
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 273
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7567ffb1886defdc0800000000000000
+      internalID: -3603206771776194985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_152
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 245
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef728eb3633132da0800000000000000
+      internalID: -5970907557308913666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_153
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 223
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a47b4930d5299d0800000000000000
+      internalID: -2769048550918108605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_154
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 229
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd701c809218e5ba0800000000000000
+      internalID: -6098294832172562467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_155
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 232
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf176a605b8423040800000000000000
+      internalID: 4625839709600772603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_156
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 236
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd94306efa70971b0800000000000000
+      internalID: -5658483004754671139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_157
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 236
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39197bc380838a360800000000000000
+      internalID: 7181051213871813011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_158
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 236
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4714be1f5e052b260800000000000000
+      internalID: 7111835710107894132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_159
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 236
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e363721838dfd2580800000000000000
+      internalID: -8850138951463782850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_160
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 236
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a8091ff85ee5aa0800000000000000
+      internalID: -6170242033055135089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_161
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 236
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd10eb8645e9ca90800000000000000
+      internalID: -7293046030392615477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_162
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 235
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe5ac68de2b1a560800000000000000
+      internalID: 7323331202319539954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_163
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 218
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b5b5060dbad5010800000000000000
+      internalID: 1179287588899085180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_164
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 216
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6367c628fa872c40800000000000000
+      internalID: 5487507469381362543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_165
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 194
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949aa5142eb406b10800000000000000
+      internalID: 1972660071919429961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_166
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 197
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0554590920b99c0800000000000000
+      internalID: -3919536230692990747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_167
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 215
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f93400e9786233f0800000000000000
+      internalID: -922560100998825481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_168
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 202
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08d2b172f8075320800000000000000
+      internalID: 2546513951683958798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_169
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 202
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbff944d0e1b82e20800000000000000
+      internalID: 3326103904005521340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_170
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 202
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29793da33f419a20800000000000000
+      internalID: 3067319904584169773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_171
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 202
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b39002c32d976dc0800000000000000
+      internalID: -3645772596428893263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_172
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 202
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b82a4456bc26cde0800000000000000
+      internalID: -1313313079722104648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_173
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 202
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b52791937a3f14e0800000000000000
+      internalID: -2008822640745699917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_174
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 202
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6175befbf9c079550800000000000000
+      internalID: 6167412094966388502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_175
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 207
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003e4ce778a1daa20800000000000000
+      internalID: 3075143289813656320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_176
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 189
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bc7e7816a0d7970800000000000000
+      internalID: 8754164664686332720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_177
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 169
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec497133c06958720800000000000000
+      internalID: 2847847318522664142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_178
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 169
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad7543b171c840c0800000000000000
+      internalID: -4591207126021079647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_179
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 169
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703c02de037a95810800000000000000
+      internalID: 1754617358416134919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_180
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 169
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806a9ad8b1f68aae0800000000000000
+      internalID: -1537857108615518712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_181
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 169
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43bfa945822bbdd0800000000000000
+      internalID: -2469342014820338870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_182
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 169
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7613f09654714e0800000000000000
+      internalID: -2011062391068858449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_183
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 169
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc67e4f5bd3e31a0800000000000000
+      internalID: -6827952133339910922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_184
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 159
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c68aa031d06c1a0800000000000000
+      internalID: -6789725012780094426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_185
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 163
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839fc3420416b4110800000000000000
+      internalID: 1246196650011851064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_186
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 182
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650b9a0f6907d2c20800000000000000
+      internalID: 3183324305205866582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_187
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 161
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a467b0bdf6bd010800000000000000
+      internalID: 1214687511087303227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_188
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 147
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3613fe9f572e97a40800000000000000
+      internalID: 5366569427320910179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_189
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 173
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e578ecca322dcb790800000000000000
+      internalID: -7512899027695925410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_190
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 156
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e515951ea7b34de60800000000000000
+      internalID: 7986073438187508062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_191
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 136
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa0c8a49515713a0800000000000000
+      internalID: -6694792877118321923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_192
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 136
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe43c324ffbaf970800000000000000
+      internalID: 8789548678059871988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_193
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 136
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d254dca5bcf18f10800000000000000
+      internalID: 2270373544390316758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_194
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 136
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eea6b3e082c96c20800000000000000
+      internalID: 3200302869055450857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_195
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 122
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db295e5911323f20800000000000000
+      internalID: 3400834653644991445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_196
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 130
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a05ef978ccc57cf0800000000000000
+      internalID: -255072642464329560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_197
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 149
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0a929714de173f0800000000000000
+      internalID: -904681184663330655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_198
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 140
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf67bbd022609d620800000000000000
+      internalID: 2799275386716518140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_199
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 123
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb01a00547711c3a0800000000000000
+      internalID: -6647005786695659330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_200
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 103
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6095e65eb3109d0800000000000000
+      internalID: -2809898835917601099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_201
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 103
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367bd02232a603220800000000000000
+      internalID: 2463585695299385187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_202
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 103
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262086fef5578dda0800000000000000
+      internalID: -5919852655279603102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_203
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 97
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0031654eb2a8c0420800000000000000
+      internalID: 2597603006205006592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_204
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 87
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2735ed83a226a9280800000000000000
+      internalID: -9035801768883235982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_205
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 88
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b9ae1453e9a65c0800000000000000
+      internalID: -4221387749130069159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_206
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 97
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756dadce652563650800000000000000
+      internalID: 6212243269298607703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_207
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 116
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ba8cc2f3fa66ca0800000000000000
+      internalID: -6023934765692310637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_208
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 108
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c579dd52587c0c0800000000000000
+      internalID: -4555526100383998843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_209
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 78
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a24768f4e11468f0800000000000000
+      internalID: -548293579514625376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_210
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 90
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb371248e692d410800000000000000
+      internalID: 1500427550153194425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_211
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 70
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed52fdd8f9a4a1da0800000000000000
+      internalID: -5973379906613074466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_212
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 70
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b62eb447026e500800000000000000
+      internalID: 425062898694515503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_213
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 70
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9b6f216ff10b190800000000000000
+      internalID: -7948818200568350216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_214
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 62
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc428eb9ef8d3b7e0800000000000000
+      internalID: -1750817242068015923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_215
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 53
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb52416dd3121ff30800000000000000
+      internalID: 4607500443245094334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_216
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 65
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52675b0194112ceb0800000000000000
+      internalID: -4701176055510763995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_217
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 83
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508ac7d81ac93aab0800000000000000
+      internalID: -4997978943773693947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_218
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 74
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3775ffbe90ca440800000000000000
+      internalID: 4948340999779218402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_219
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 14
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c810aaea3dfd9adc0800000000000000
+      internalID: -3627121924608753268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_220
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 49
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e378879e3b15a6f0800000000000000
+      internalID: -674102613577796636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_221
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 41
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fae14d808872c8a0800000000000000
+      internalID: -6286329636334736654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_222
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 48
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571cd220ca9f11cf0800000000000000
+      internalID: -283170784381386379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_223
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 57
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5a82ed4ecf5a2c0800000000000000
+      internalID: -4420849399284324917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_224
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 37
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7302238c6c729960800000000000000
+      internalID: 7607279526080545659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_225
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 37
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c17f82572072e40800000000000000
+      internalID: 5631472561271807091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_226
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 37
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6671fd6d186b4cd50800000000000000
+      internalID: 6756726009734567782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_227
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 27
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af07733efdc35f300800000000000000
+      internalID: 285201083695329530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_228
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 23
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d569989ca8cdb330800000000000000
+      internalID: 3728356710152758742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_229
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 22
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e202376804419f0800000000000000
+      internalID: -498702712529998229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_230
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 22
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56c16eee15b08800800000000000000
+      internalID: 612688693775418973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_231
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 31
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e7d15d207fa05c0800000000000000
+      internalID: -4248311706933166546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_232
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 50
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c2db6260a1ad1b0800000000000000
+      internalID: -5631159770351326102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_233
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 20
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfed131ca23992580800000000000000
+      internalID: -8851381780780818692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_234
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 23
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb228956b199eb210800000000000000
+      internalID: 1350685281205363388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_235
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 23
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47629d9ddf58420d0800000000000000
+      internalID: -3448484089330850188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_236
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 19
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571f9efb49d5404f0800000000000000
+      internalID: -863462335091969675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_237
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 41
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11697d524b36b74f0800000000000000
+      internalID: -829960080939575791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_238
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 11
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa82024977aa2f20800000000000000
+      internalID: 3398713008044804849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_239
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 12
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b511459a23df660800000000000000
+      internalID: 7421143463817730903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_240
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 5
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8a0dcd285d845b0800000000000000
+      internalID: -5383818596494301012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_241
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 15
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcf5878d0e974f90800000000000000
+      internalID: -6969428117387084587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_242
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 24
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eb203caf688a910800000000000000
+      internalID: 1848876058607271479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_243
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 4
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5db7b5895f167a0800000000000000
+      internalID: -6385552761915976265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_244
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 4
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594e78c8876618190800000000000000
+      internalID: -7961969998274501483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_245
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 4
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703580efeae679620800000000000000
+      internalID: 2780812992789893895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_246
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbcde323386a8040800000000000000
+      internalID: 4650644134068866011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_247
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5a7790a662cedd0800000000000000
+      internalID: -2455545459956537922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1404594863_preview_Enemy_GuardsMarked_248
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0f420cb5a5fd490800000000000000
+      internalID: -7719351886177570610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
