@@ -379,7 +379,7 @@ MonoBehaviour:
   minScale: {x: 1, y: 1, z: 1}
   maxScale: {x: 3, y: 3, z: 3}
   detector: {fileID: 88857939}
-  loudnessSensibility: 100
+  loudnessSensibility: 1000
   threshold: 0.1
 --- !u!65 &1027571760
 BoxCollider:
