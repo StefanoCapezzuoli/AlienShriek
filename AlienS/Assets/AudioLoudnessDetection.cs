@@ -16,7 +16,8 @@ public class AudioLoudnessDetection : MonoBehaviour
     // Update is called once per frame
         void Update()
     {
-        
+
+            Debug.Log("Name: " + Microphone.devices[0]);
     }
 
     public void MicrophoneToAudioClip()
