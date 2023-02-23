@@ -15,7 +15,14 @@ public class ScaleFromAudioClip : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+        // Get list of Microphone devices and print the names to the log
+        void Start()
+        {
+            foreach (var device in Microphone.devices)
+            {
+                Debug.Log("Name: " + device);
+            }
+        }
     }
 
     // Update is called once per frame
