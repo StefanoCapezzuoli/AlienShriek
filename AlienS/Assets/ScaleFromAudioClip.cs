@@ -31,15 +31,16 @@ public class ScaleFromAudioClip : MonoBehaviour
         float loudness = detector.GetLoudnessFromMicrophone();
         Debug.Log(loudness * loudnessSensibility);
 
-        if (loudness * loudnessSensibility < 1)
-            transform.localScale = Vector3.Lerp(minScale, maxScale, 0.001f * loudnessSensibility);
-        
-        if (loudness * loudnessSensibility > 1 && loudness * loudnessSensibility < 2)
-            transform.localScale = Vector3.Lerp(minScale, maxScale, 0.003f * loudnessSensibility);
+        //if (loudness * loudnessSensibility < 1)
+        //    transform.localScale = Vector3.Lerp(minScale, maxScale, 0.001f * loudnessSensibility);
 
-        if (loudness * loudnessSensibility > 2)
-            transform.localScale = Vector3.Lerp(minScale, maxScale, 0.005f * loudnessSensibility);
+        //if (loudness * loudnessSensibility > 1 && loudness * loudnessSensibility < 2)
+        //    transform.localScale = Vector3.Lerp(minScale, maxScale, 0.003f * loudnessSensibility);
 
+        //if (loudness * loudnessSensibility > 2)
+        //    transform.localScale = Vector3.Lerp(minScale, maxScale, 0.005f * loudnessSensibility);
+
+        transform.localScale = Vector3.Lerp(minScale, maxScale, loudness * loudnessSensibility);
 
 
 
