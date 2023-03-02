@@ -27,39 +27,30 @@ vertices[0] = origin;
 int vertexIndex = 1;
 int triangleIndex = 0;
 for (int i = 0; i <= rayCount; i++) {
-Vector3 vertex = origin + UtilsClass.GetVectorFromAngle(angle) * viewDistance;
-RaycastHit2D raycastHit2D = Physics2D.Raycast2D.Raycast(origin, UtilsClass.GetVectorFromAngle(angle), viewDistance);
-if (raycastHit2D.collider == null) {
+    Vector3 vertex = origin + UtilsClass.GetVectorFromAngle(angle) * viewDistance;
+    RaycastHit2D raycastHit2D = Physics2D.Raycast(origin, UtilsClass.GetVectorFromAngle(angle), viewDistance);
+    if (raycastHit2D.collider == null) {
 
-} else {
-    vertex = raycastHit2D.point;
+    } 
+    else 
+    {
+        vertex = raycastHit2D.point;
+    }
 
+    vertices[vertexIndex] = vertex;
+
+    if (i > 0) {
+        triangles[triangleIndex + 0] = 0;
+        triangles[triangleIndex + 1] = vertexIndex - 1;
+        triangles[triangleIndex + 2] = vertexIndex;
+
+        triangleIndex += 3;
+    }
+    vertexIndex++;
+    angle -= angleIncrease;
 }
-
-
-vertices[vertexIndex] = vertex;
-
-if (i > 0) {
-triangles[triangleIndex + 0] = 0;
-triangles[triangleIndex + 1] = vertexIndex - 1;
-triangles[triangleIndex + 2] = vertexIndex;
-
-triangleIndex += 3;
-}
-
-vertexIndex++;
-angle -= angleIncrease;
-
-}
-
-
 mesh.vertices = vertices;
 mesh.uv = uv;
 mesh.triangles = triangles;
-
-
-}
-
-
-    
+}   
 }
