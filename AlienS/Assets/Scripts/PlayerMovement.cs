@@ -6,10 +6,11 @@ public class PlayerMovement: MonoBehaviour
 {
     [SerializeField]
     private float speed;
-
+    public Rigidbody2D rb;
     [SerializeField]
     private float rotationSpeed;
 
+    Vector2 movement;
 
     // Start is called before the first frame update
     
@@ -21,21 +22,11 @@ public class PlayerMovement: MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-    float horizontalInput = Input.GetAxis("Horizontal");
-    float verticalInput = Input.GetAxis("Vertical");
+    movement.x = Input.GetAxisRaw("Horizontal");
+    movement.y = Input.GetAxisRaw("Vertical");
 
-    Vector2 movementDirection = new Vector2(horizontalInput, verticalInput);
-    float inputMagnitude = Mathf.Clamp01(movementDirection.magnitude);
-    movementDirection.Normalize();
-
-    transform.Translate(movementDirection * speed * inputMagnitude * Time.deltaTime, Space.World);
+    rb.MovePosition(rb.position + movement* speed * Time.fixedDeltaTime);
     
-    if (movementDirection != Vector2.zero)
-    
-    {
-    Quaternion toRotation = Quaternion.LookRotation(Vector3.forward, movementDirection);
-    transform.rotation = Quaternion.RotateTowards(transform.rotation, toRotation, rotationSpeed * Time.deltaTime);
-    }
 
     }
 }
