@@ -17,7 +17,7 @@ public class AudioLoudnessDetection : MonoBehaviour
         void Update()
     {
 
-            Debug.Log("Name: " + Microphone.devices[0]);
+            //Debug.Log("Name: " + Microphone.devices[0]);
     }
 
     public void MicrophoneToAudioClip()

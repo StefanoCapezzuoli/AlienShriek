@@ -27,7 +27,7 @@ public class ProjectileFromAudioClip : MonoBehaviour
             
             foreach (var device in Microphone.devices)
             {
-                Debug.Log("Name: " + device);
+                //Debug.Log("Name: " + device);
             }
         }
     }
@@ -36,7 +36,7 @@ public class ProjectileFromAudioClip : MonoBehaviour
     void Update()
     {
         float loudness = detector.GetLoudnessFromMicrophone();
-        Debug.Log(loudness * loudnessSensibility);
+        //Debug.Log(loudness * loudnessSensibility);
 
         //PlayMakerFSM.BroadcastEvent("Max");
         if (cooldown == false)
@@ -61,6 +61,19 @@ public class ProjectileFromAudioClip : MonoBehaviour
                 //transform.localScale = new Vector3(3f, 3f, 3f);
                 PlayMakerFSM.BroadcastEvent("Max");
                 cooldown = true;
+            }
+
+            if (Input.GetKeyDown(KeyCode.E))
+            {
+                PlayMakerFSM.BroadcastEvent("Min");
+            }
+            if (Input.GetKeyDown(KeyCode.R))
+            {
+                PlayMakerFSM.BroadcastEvent("Mid");
+            }
+            if (Input.GetKeyDown(KeyCode.F))
+            {
+                PlayMakerFSM.BroadcastEvent("Max");
             }
         }
         else

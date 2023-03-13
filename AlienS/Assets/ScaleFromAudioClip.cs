@@ -20,7 +20,7 @@ public class ScaleFromAudioClip : MonoBehaviour
         {
             foreach (var device in Microphone.devices)
             {
-                Debug.Log("Name: " + device);
+                //Debug.Log("Name: " + device);
             }
         }
     }
@@ -29,7 +29,7 @@ public class ScaleFromAudioClip : MonoBehaviour
     void Update()
     {
         float loudness = detector.GetLoudnessFromMicrophone();
-        Debug.Log(loudness * loudnessSensibility);
+        //Debug.Log(loudness * loudnessSensibility);
 
         //if (loudness * loudnessSensibility < 1)
         //    transform.localScale = Vector3.Lerp(minScale, maxScale, 0.001f * loudnessSensibility);

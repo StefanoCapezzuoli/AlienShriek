@@ -19,16 +19,28 @@ public class Proiettile : MonoBehaviour
         void OnEnable()
         {
             GameObject[] otherObjects = GameObject.FindGameObjectsWithTag("Noise");
+            GameObject[] otherObjects2 = GameObject.FindGameObjectsWithTag("BrokenWall");
+             GameObject[] otherObjects3 = GameObject.FindGameObjectsWithTag("Player");
 
-            foreach (GameObject obj in otherObjects)
+        foreach (GameObject obj in otherObjects)
             {
                 Physics2D.IgnoreCollision(obj.GetComponent<Collider2D>(), GetComponent<Collider2D>());
             }
 
-            // rest of OnEnable
+        foreach (GameObject obj in otherObjects2)
+        {
+            Physics2D.IgnoreCollision(obj.GetComponent<Collider2D>(), GetComponent<Collider2D>());
         }
 
-    void Update()
+        foreach (GameObject obj in otherObjects3)
+        {
+            Physics2D.IgnoreCollision(obj.GetComponent<Collider2D>(), GetComponent<Collider2D>());
+        }
+
+        // rest of OnEnable
+    }
+
+    void FixedUpdate()
     {
         bulletPrefab.AddForce(transform.up * bulletSpeed);
     }
