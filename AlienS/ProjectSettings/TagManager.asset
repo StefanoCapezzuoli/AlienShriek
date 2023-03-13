@@ -7,6 +7,7 @@ TagManager:
   - Noise
   - NormalWall
   - Enemy
+  - BrokenWall
   layers:
   - Default
   - TransparentFX
